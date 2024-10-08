@@ -1,0 +1,39 @@
+[
+    {
+        "dia": 1,
+        "vendas": 1000,
+        "produtos": [
+            {"nome ": "Produto A", "quantidade": 50, "preco": 10.99},
+            {"nome": "Produto B", "quantidade": 20, "preco": 5.99}
+        ]
+    },
+    {
+        "dia": 2,
+        "vendas": 1200,
+        "produtos": [
+            {"nome": "Produto A", "quantidade": 60, "preco": 10.99},
+            {"nome": "Produto C", "quantidade": 30, "preco": 7.99}
+        ]
+    },
+    {
+        "dia": 3,
+        "vendas": 0,
+        "produtos": []
+    },
+    {
+        "dia": 4,
+        "vendas": 1500,
+        "produtos": [
+            {"nome": "Produto B", "quantidade": 40, "preco": 5.99},
+            {"nome": "Produto D", "quantidade": 50, "preco": 12.99}
+        ]
+    },
+    {
+        "dia": 5,
+        "vendas": 1800,
+        "produtos": [
+            {"nome": "Produto A", "quantidade": 70, "preco": 10.99},
+            {"nome": "Produto C", "quantidade": 40, "preco": 7.99}
+        ]
+    }
+]
